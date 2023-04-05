@@ -6,7 +6,7 @@ Cuando se manda el formulario se realiza un POST a través del endpoint "/addNew
 ![image](https://user-images.githubusercontent.com/97603106/230116863-18a476e7-255a-49fe-b3bf-a1d79551f6e1.png)
 
 
-Se pueden comprobar los formularios mandados a haciendo un GET a través del endpoint "/getForms" como se muestra a continuación. Para ello basta con acceder a la url "http://localhost/getForms"
+Se pueden comprobar los formularios mandados a haciendo un GET a través del endpoint "/getForms" como se muestra a continuación. Para ello basta con acceder a la url http://localhost/getForms
 ![image](https://user-images.githubusercontent.com/97603106/230116547-e3a2438d-aae0-4225-bd1e-030d9e1ef3bb.png)
 
 
